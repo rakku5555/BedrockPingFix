@@ -1,0 +1,11 @@
+name: bedrockpingfix
+version: '1.0'
+main: net.point7845.bedrockpingfix.Bedrockpingfix
+api-version: '1.21'
+authors:
+  - point7845
+  - rakku
+
+depends:
+  - packetevents
+  - Geyser-Spigot
